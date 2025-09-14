@@ -1,0 +1,70 @@
+h1{
+    color: black;
+    text-align: center;
+}
+
+h3{
+    color: black;
+    text-align: center;
+}
+
+#container{
+    height: 25vw;
+    width: 30vw;
+    display: flex;
+    margin-top: 3vw;
+    margin-left: 37%;
+    flex-wrap: wrap;
+
+    align-items: center;
+}
+
+
+
+.red{
+    background-color: red;
+    height: 10vw;
+    width: 10vw;
+    border: 3px solid black;
+    margin: 1vw;
+    border-radius: 1vw;
+}
+.blue{
+    background-color: blue;
+    height: 10vw;
+    width: 10vw;
+    border: 3px solid black;
+    margin: 1vw;
+    border-radius: 1vw;
+}
+.orange{
+    background-color: orange;
+    height: 10vw;
+    width: 10vw;
+    border: 3px solid black;
+    margin: 1vw;
+    border-radius: 1vw;
+}
+.green{
+    background-color: green;
+    height: 10vw;
+    width: 10vw;
+    border: 3px solid black;
+    margin: 1vw;
+    border-radius: 1vw;
+}
+
+
+
+.flash{
+    background-color: white;
+}
+
+
+.userflash{
+    background-color: black;
+}
+
+audio{
+    display: none;
+}
